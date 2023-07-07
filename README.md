@@ -1,2 +1,2 @@
 # app-meu-livro-de-receitas
-Aplicativo Android desenvolvido com linguagem C# e com o framework para desenvolvimento de interfaces mobile Xamarin.Forms. Também foi utilizada a biblioteca SQLite para embutir um banco de dados local no aplicativo.
+Aplicativo Android desenvolvido com linguagem C# e com o framework para desenvolvimento de interfaces mobile Xamarin.Forms. Também foi utilizada a biblioteca SQLite para embutir um banco de dados local no aplicativo. O app realiza as operações de CRUD (Create; Read; Update; Delete) com algumas validações para cadastrar receitas no banco dedados local e também tem acesso a galeria de fotos do dispositivo móvel.
