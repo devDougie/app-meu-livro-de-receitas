@@ -17,22 +17,24 @@ Este projeto foi desenvolvido com o objetivo de praticar o desenvolvimento mobil
 | Xamarin.Essentials | 1.7.0 | Acesso à galeria de fotos do dispositivo |
 | sqlite-net-pcl | 1.8.116 | ORM leve para banco de dados SQLite local |
 | .NET Standard | 2.0 | Target framework do projeto compartilhado |
-| Visual Studio | 2022 | IDE de desenvolvimento |
+| Visual Studio Community | 2022 | IDE de desenvolvimento |
 
 ---
 
+<!--
 ## 🖼️ Demonstração
 
 > 📌 *Adicione aqui um GIF ou vídeo demonstrando o fluxo completo do aplicativo.*
 
-<!-- Sugestão: grave um GIF mostrando: abrir o app → cadastrar receita → buscar → editar → excluir -->
-<!-- ![Demo](./assets/demo.gif) -->
+Sugestão: grave um GIF mostrando: abrir o app → cadastrar receita → buscar → editar → excluir
+[Demo](./assets/demo.gif)
 
 | Tela Inicial | Cadastrar Receita | Buscar Receitas |
 |:---:|:---:|:---:|
 | ![Home](./assets/screenshot-home.png) | ![Cadastro](./assets/screenshot-register.png) | ![Busca](./assets/screenshot-search.png) |
 
-> 📌 *Substitua os placeholders acima pelas capturas de tela reais do aplicativo.*
+> 📌 *Substitua os placeholders acima pelas capturas de tela reais do aplicativo.
+-->
 
 ---
 
